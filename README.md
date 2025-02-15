@@ -8,7 +8,7 @@
 </div>
 <br />
 
-proyek ini adalah sebuah aplikasi web bernama Invoice Hub. Aplikasi ini memungkinkan pengguna untuk mengelola invoice (faktur) secara efisien. Berikut beberapa poin penting yang dapat diambil:
+proyek ini adalah sebuah aplikasi web bernama Invoice Hub. Aplikasi ini memungkinkan pengguna untuk mengelola invoice (faktur) secara efisien.
 
 ### Teknologi yang Digunakan
 
